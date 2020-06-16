@@ -1,45 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2ddb4f51-ab94-4021-a907-ada255718594" name="Default Changelist" comment="ajout des fichiers de base">
-      <change afterPath="$PROJECT_DIR$/.idea/PRO-EDUCATION.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/about/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/about/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/about/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/about/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/close-icon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/header-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/logos/creative-market.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/logos/designmodo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/logos/envato.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/logos/themeforest.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/map-image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/navbar-logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/01-full.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/01-thumbnail.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/02-full.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/02-thumbnail.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/03-full.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/03-thumbnail.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/04-full.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/04-thumbnail.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/05-full.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/05-thumbnail.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/06-full.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/06-thumbnail.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/team/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/team/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/team/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/mail/contact_me.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/mail/contact_me.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/mail/jqBootstrapValidation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/scripts.js" afterDir="false" />
+    <list default="true" id="2ddb4f51-ab94-4021-a907-ada255718594" name="Default Changelist" comment="Fichiers image ajoutes dans le dossier img">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,8 +21,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="39" column="114" selection-start-line="39" selection-start-column="114" selection-end-line="39" selection-end-column="114" />
+            <state relative-caret-position="276">
+              <caret line="224" column="96" selection-start-line="224" selection-start-column="96" selection-end-line="224" selection-end-column="96" />
             </state>
           </provider>
         </entry>
@@ -117,6 +81,11 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.language" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Verrouller_le_PC\PRO-EDUCATION\img" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -139,12 +108,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1592344725357</updated>
-      <workItem from="1592344727353" duration="866000" />
+      <workItem from="1592344727353" duration="2019000" />
     </task>
+    <task id="LOCAL-00001" summary="lien facebook ajouter">
+      <created>1592346367314</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592346367314</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Fichiers image ajoutes dans le dossier img">
+      <created>1592346420689</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1592346420689</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="866000" />
+    <option name="totallyTimeSpent" value="2019000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -185,13 +169,15 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ajout des fichiers de base" />
-    <option name="LAST_COMMIT_MESSAGE" value="ajout des fichiers de base" />
+    <MESSAGE value="lien facebook ajouter" />
+    <MESSAGE value="Fichiers image ajoutes dans le dossier img" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fichiers image ajoutes dans le dossier img" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="39" column="114" selection-start-line="39" selection-start-column="114" selection-end-line="39" selection-end-column="114" />
+        <state relative-caret-position="276">
+          <caret line="224" column="96" selection-start-line="224" selection-start-column="96" selection-end-line="224" selection-end-column="96" />
         </state>
       </provider>
     </entry>
